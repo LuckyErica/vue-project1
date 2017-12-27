@@ -1,0 +1,125 @@
+{
+    "home" :"one",
+    "slide": [
+        {
+            "id": 1,
+            "src": "http://www.placehold.it/750x500/"
+        },
+        {
+            "id": 2,
+            "src": "http://www.placehold.it/750x500/"
+        },
+        {
+            "id": 3,
+            "src": "http://www.placehold.it/750x500/"
+        }
+    ],
+    "notice": [
+        {
+            "id": 1,
+            "title": "第一条公告"
+        },
+        {
+            "id": 2,
+            "title": "第二条公告第二条公告第二条公告第二条公告第二条公告"
+        },
+        {
+            "id": 3,
+            "title": "第三条公告"
+        }
+    ],
+    "schoolInfo": {
+        "headImg": "http://www.placehold.it/100x100/",
+        "schoolName": "南京大学",
+        "schoolBrief": ["南京大学第一条描述南京大学第二条描南京大学第一条描述南京大学第二条描述述", "南京大学第二条描述" ],
+        "themeColor":"#f00",
+        "tag":["985","211","c2"]
+    },
+    "iconArr":[
+        {
+            "id": 1,
+            "name": "专业目录",
+            "css": "icon-mulu",
+            "color":"#666"
+        },
+        {
+            "id": 2,
+            "name": "学院简介",
+            "css": "icon-jianjie",
+            "color":"#666"
+        },
+        {
+            "id": 3,
+            "name": "常见问题",
+            "css": "icon-15",
+            "color":"#666"
+        },
+        {
+            "id": 4,
+            "name": "导师风采",
+            "css": "icon-daoshishiming",
+            "color":"#666"
+        },
+        {
+            "id": 5,
+            "name": "招生快讯",
+            "css": "icon-zhaoshengkuaixun1",
+            "color":"#666"
+        },
+        {
+            "id": 6,
+            "name": "推荐指南",
+            "css": "icon-tuijian",
+            "color":"#666"
+        },
+        {
+            "id": 7,
+            "name": "历年分数线",
+            "css": "icon-fenshuxian-",
+            "color":"#666"
+        },
+        {
+            "id": 8,
+            "name": "奖助政策",
+            "css": "icon-zhengce",
+            "color":"#666"
+        },
+        {
+            "id": 9,
+            "name": "调剂指南",
+            "css": "icon-bumentiaoji",
+            "color":"#666"
+        },
+        {
+            "id": 10,
+            "name": "宣传视频",
+            "css": "icon-shipin",
+            "color":"#666"
+        },
+        {
+            "id": 11,
+            "name": "联系方式",
+            "css": "icon-lianxifangshi",
+            "color":"#666"
+        },
+        {
+            "id": 12,
+            "name": "校园风光",
+            "css": "icon-xiaoyuanfengguang",
+            "color":"#666"
+        },
+        {
+            "id": 13,
+            "name": "学院概况",
+            "css": "icon-xuexiao",
+            "color":"#666"
+        },
+        {
+            "id": 14,
+            "name": "参考书籍",
+            "css": "icon-shuji",
+            "color":"#666"
+        }
+
+    ]
+}

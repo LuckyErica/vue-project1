@@ -1,0 +1,74 @@
+{
+    "teacherList": [
+        {
+            "id": 1,
+            "name": "张三",
+            "job": "办公室主任",
+            "school": "南京大学",
+            "brief": "还是粉红色的时间段发生的金凤凰时代峻峰世纪东方",
+            "question":23,
+            "follow":120,
+            "headImg": "http://www.placehold.it/750x500/"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "job": "办公室主任",
+            "school": "南京大学",
+            "brief": "还是粉红色的时间段发生的金凤凰时代峻峰世纪东方",
+            "question":23,
+            "follow":120,
+            "headImg": "http://www.placehold.it/750x500/"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "job": "办公室主任",
+            "school": "南京大学",
+            "brief": "还是粉红色的时间段发生的金凤凰时代峻峰世纪东方",
+            "question":23,
+            "follow":120,
+            "headImg": "http://www.placehold.it/750x500/"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "job": "办公室主任",
+            "school": "南京大学",
+            "brief": "还是粉红色的时间段发生的金凤凰时代峻峰世纪东方",
+            "question":23,
+            "follow":120,
+            "headImg": "http://www.placehold.it/750x500/"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "job": "办公室主任",
+            "school": "南京大学",
+            "brief": "还是粉红色的时间段发生的金凤凰时代峻峰世纪东方",
+            "question":23,
+            "follow":120,
+            "headImg": "http://www.placehold.it/750x500/"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "job": "办公室主任",
+            "school": "南京大学",
+            "brief": "还是粉红色的时间段发生的金凤凰时代峻峰世纪东方",
+            "question":23,
+            "follow":120,
+            "headImg": "http://www.placehold.it/750x500/"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "job": "办公室主任",
+            "school": "南京大学",
+            "brief": "还是粉红色的时间段发生的金凤凰时代峻峰世纪东方",
+            "question":23,
+            "follow":120,
+            "headImg": "http://www.placehold.it/750x500/"
+        }
+    ]
+}

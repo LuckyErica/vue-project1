@@ -1,0 +1,64 @@
+{
+    "imgsArr": [
+        {
+            "id": 1,
+            "src": "http://www.placehold.it/850x250/",
+            "info": "1一些图片然后你就可以使用当前上下文内的swiper对象去做你想做的事了描述文字"
+        },
+        {
+            "id": 3,
+            "src": "http://www.placehold.it/380x250/",
+            "info": "2一些图片描述文字"
+        },
+        {
+            "id": 4,
+            "src": "http://www.placehold.it/350x250/",
+            "info": "3一些图片描述文字"
+        },
+        {
+            "id": 51,
+            "src": "http://www.placehold.it/550x150/",
+            "info": "4一些图然后你就可以使用当前上下文内的swiper对象去做你想做的事了片描述文字"
+        },
+        {
+            "id": 61,
+            "src": "http://www.placehold.it/350x450/",
+            "info": "5一些图片描述文字"
+        },
+        {
+            "id": 7,
+            "src": "http://www.placehold.it/310x250/",
+            "info": "6一些图片描述文字"
+        },
+        {
+            "id": 8,
+            "src": "http://www.placehold.it/350x250/",
+            "info": "7一些图片描述文字"
+        },
+        {
+            "id": 9,
+            "src": "http://www.placehold.it/380x250/",
+            "info": "8一些图片然后你就可以使用当前上下文内的swiper对象去做你想做的事了描述文字"
+        },
+        {
+            "id": 0,
+            "src": "http://www.placehold.it/350x250/",
+            "info": "9一些图片描然后你就可以使用当前上下文内的swiper对象去做你想做的事了然后你就可以使用当前上下文内的swiper对象去做你想做的事了述文字"
+        },
+        {
+            "id": 11,
+            "src": "http://www.placehold.it/550x150/",
+            "info": "0一些图片描述文字"
+        },
+        {
+            "id": 12,
+            "src": "http://www.placehold.it/350x450/",
+            "info": "11一些图片然后你就可以使用当前上下文内的swiper对象去做你想做的事了描述文字"
+        },
+        {
+            "id": 13,
+            "src": "http://www.placehold.it/310x250/",
+            "info": "12一些图片描述文字"
+        }
+    ]
+}
